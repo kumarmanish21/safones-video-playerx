@@ -2,6 +2,7 @@ heroku3
 tgcrypto
 ffmpeg-python
 python-dotenv
+youtube_dl
 youtube_search
 pyrogram==1.4.16
 py-tgcalls==0.9.7
